@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+.project{
+    color:black;
+    border: solid;
+}
+p{
+    margin: 50px;
+}
+img{
+    height: 200px;
+    width: 250px
+}

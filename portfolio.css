@@ -1,0 +1,47 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:25px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;
+    padding:10px;
+}
+body{
+    text-align:center;    
+    
+}
+.header{
+    border: 1px solid white;    
+}
+#image2{
+    width:50%;    
+}
+.contact{
+    color:black;    
+}
+.header{
+    padding:10px;    
+}
+body{
+    color:black;
+}
+.footer{
+    color:white;
+}
+.salamander{
+    color:white;
+}
